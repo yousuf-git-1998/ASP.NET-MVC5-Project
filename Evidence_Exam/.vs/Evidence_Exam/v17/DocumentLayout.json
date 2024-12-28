@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\6th Monthly evidence\\Evidence_Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{268928DD-336F-4280-8F30-F4610EF09A62}|Evidence_Exam\\Evidence_Exam.csproj|c:\\users\\user\\desktop\\6th monthly evidence\\evidence_exam\\evidence_exam\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{268928DD-336F-4280-8F30-F4610EF09A62}|Evidence_Exam\\Evidence_Exam.csproj|solutionrelative:evidence_exam\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268928DD-336F-4280-8F30-F4610EF09A62}|Evidence_Exam\\Evidence_Exam.csproj|C:\\Users\\User\\Desktop\\6th Monthly evidence\\Evidence_Exam\\evidence_exam\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268928DD-336F-4280-8F30-F4610EF09A62}|Evidence_Exam\\Evidence_Exam.csproj|solutionrelative:evidence_exam\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__6TH_MONTHLY_EVIDENCE_EVIDENCE_EXAM_EVIDENCE_EXAM_APP_DATA_EVDB.MDF/True/SqlTable/dbo.Sales.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__6TH_MONTHLY_EVIDENCE_EVIDENCE_EXAM_EVIDENCE_EXAM_APP_DATA_EVDB.MDF/True/SqlTable/dbo.Sellers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__6TH_MONTHLY_EVIDENCE_EVIDENCE_EXAM_EVIDENCE_EXAM_APP_DATA_EVDB.MDF/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\6th Monthly evidence\\db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268928DD-336F-4280-8F30-F4610EF09A62}|Evidence_Exam\\Evidence_Exam.csproj|C:\\Users\\User\\Desktop\\6th Monthly evidence\\Evidence_Exam\\evidence_exam\\viewmodels\\productinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268928DD-336F-4280-8F30-F4610EF09A62}|Evidence_Exam\\Evidence_Exam.csproj|solutionrelative:evidence_exam\\viewmodels\\productinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268928DD-336F-4280-8F30-F4610EF09A62}|Evidence_Exam\\Evidence_Exam.csproj|C:\\Users\\User\\Desktop\\6th Monthly evidence\\Evidence_Exam\\evidence_exam\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{268928DD-336F-4280-8F30-F4610EF09A62}|Evidence_Exam\\Evidence_Exam.csproj|solutionrelative:evidence_exam\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Sales.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__6TH_MONTHLY_EVIDENCE_EVIDENCE_EXAM_EVIDENCE_EXAM_APP_DATA_EVDB.MDF/True/SqlTable/dbo.Sales.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__6TH_MONTHLY_EVIDENCE_EVIDENCE_EXAM_EVIDENCE_EXAM_APP_DATA_EVDB.MDF/True/SqlTable/dbo.Sales.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-19T07:28:11.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Sellers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__6TH_MONTHLY_EVIDENCE_EVIDENCE_EXAM_EVIDENCE_EXAM_APP_DATA_EVDB.MDF/True/SqlTable/dbo.Sellers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__6TH_MONTHLY_EVIDENCE_EVIDENCE_EXAM_EVIDENCE_EXAM_APP_DATA_EVDB.MDF/True/SqlTable/dbo.Sellers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-19T07:27:05.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Products.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__6TH_MONTHLY_EVIDENCE_EVIDENCE_EXAM_EVIDENCE_EXAM_APP_DATA_EVDB.MDF/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__6TH_MONTHLY_EVIDENCE_EVIDENCE_EXAM_EVIDENCE_EXAM_APP_DATA_EVDB.MDF/True/SqlTable/dbo.Products.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-19T07:23:45.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\6th Monthly evidence\\Evidence_Exam\\Evidence_Exam\\ViewModels\\ProductInputModel.cs",
+              "RelativeDocumentMoniker": "Evidence_Exam\\ViewModels\\ProductInputModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\6th Monthly evidence\\Evidence_Exam\\Evidence_Exam\\ViewModels\\ProductInputModel.cs",
+              "RelativeToolTip": "Evidence_Exam\\ViewModels\\ProductInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:23:10.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\6th Monthly evidence\\Evidence_Exam\\Evidence_Exam\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Evidence_Exam\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\6th Monthly evidence\\Evidence_Exam\\Evidence_Exam\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Evidence_Exam\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T06:28:45.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\6th Monthly evidence\\Evidence_Exam\\Evidence_Exam\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Evidence_Exam\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\6th Monthly evidence\\Evidence_Exam\\Evidence_Exam\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Evidence_Exam\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwEEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T05:05:32.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\6th Monthly evidence\\Evidence_Exam\\Evidence_Exam\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Evidence_Exam\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\6th Monthly evidence\\Evidence_Exam\\Evidence_Exam\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Evidence_Exam\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwD0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:05:13.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "db.sql",
+              "DocumentMoniker": "D:\\6th Monthly evidence\\db.sql",
+              "ToolTip": "D:\\6th Monthly evidence\\db.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-19T04:53:52.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
